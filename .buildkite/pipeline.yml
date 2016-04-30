@@ -1,3 +1,2 @@
 steps:
-  - trigger: "adam_test_pipeline"
-
+  - trigger: "pipeline-to-trigger"

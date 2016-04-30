@@ -1,0 +1,3 @@
+steps:
+  - trigger: "adam_test_pipeline"
+
